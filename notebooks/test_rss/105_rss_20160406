@@ -1,0 +1,639 @@
+<?xml version="1.0"?>
+<html>
+ <body>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:metadata="http://www.w3.org/Metadata">
+   <channel>
+    <atom:link href="http://www.cnbc.com/id/100003114/device/rss/rss.html" rel="self" type="application/rss+xml">
+    </atom:link>
+    <title>
+     Top News &amp;amp; Analysis
+    </title>
+    <description>
+    </description>
+    <link/>
+    http://www.cnbc.com/us-top-news-and-analysis/
+    <pubdate>
+     Wed, 06 Apr 2016 12:15 GMT
+    </pubdate>
+    <lastbuilddate>
+     Wed, 06 Apr 2016 12:15 GMT
+    </lastbuilddate>
+    <language>
+     en-us
+    </language>
+    <ttl>
+     60
+    </ttl>
+    <item>
+     <title>
+      Savvy home sellers turn to smart technology
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/07/savvy-home-sellers-turn-to-smart-technology.html
+     <pubdate>
+      Thu, 07 Apr 2016 04:00 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103500803
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103500803
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Keeping prescription costs down in retirement
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/06/keeping-drug-costs-down-in-retirement.html
+     <pubdate>
+      Wed, 06 Apr 2016 12:16 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103522802
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103522802
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Oil futures jump on output freeze hopes
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/04/looming-gasoline-glut-pulls-down-crude-oil-prices.html
+     <pubdate>
+      Wed, 06 Apr 2016 12:16 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103520154
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103520154
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Turbulence for corp jets makes investors queasy
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/06/turbulence-for-corp-jets-makes-investors-queasy.html
+     <pubdate>
+      Wed, 06 Apr 2016 12:08 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103518438
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103518438
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Early movers: STZ, PFE, AGN, WFC, CSCO, PLCM &amp; more
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/06/early-movers-stz-pfe-agn-wfc-csco-plcm-amzn-jnj-cree-more.html
+     <pubdate>
+      Wed, 06 Apr 2016 12:01 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103524720
+     </guid>
+     <metadata:type>
+      blogpost
+     </metadata:type>
+     <metadata:id>
+      103524720
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Dividend divas: The 3 ETFs that yield more than 9%
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/06/dividend-divas-the-3-etfs-that-yield-more-than-9-percent.html
+     <pubdate>
+      Wed, 06 Apr 2016 12:00 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103523507
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103523507
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Starting a business? Watch for these surprises
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/05/starting-a-business-dont-get-caught-by-these-surprises.html
+     <pubdate>
+      Wed, 06 Apr 2016 12:00 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103495396
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103495396
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Wal-Mart aims to switch to cage-free eggs by 2025
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/06/wal-mart-aims-to-switch-to-cage-free-egg-supply-chain-by-2025.html
+     <pubdate>
+      Wed, 06 Apr 2016 11:57 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103524921
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103524921
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Pfizer, Allergan officially terminate $160B merger
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/05/pfizer-allergan-will-mutually-terminate-merger-over-inversion-rule-changes-sources-say.html
+     <pubdate>
+      Wed, 06 Apr 2016 11:13 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103523721
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103523721
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Refi reboot pushes mortgage applications up 2.7%
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/06/refinance-reboot-pushes-mortgage-applications-up.html
+     <pubdate>
+      Wed, 06 Apr 2016 11:00 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103522863
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103522863
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Rick Springfield: Channel your struggles to win
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/05/rick-springfield-channel-your-struggles-to-win.html
+     <pubdate>
+      Wed, 06 Apr 2016 11:00 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103480876
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103480876
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Got $225? These guys say they can cure your hangover
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/05/got-225-these-guys-say-they-can-cure-your-hangover.html
+     <pubdate>
+      Wed, 06 Apr 2016 11:00 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103511137
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103511137
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Five best and worst states for return on your taxes
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/06/five-best-and-worst-states-for-return-on-your-taxes.html
+     <pubdate>
+      Wed, 06 Apr 2016 11:00 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103522193
+     </guid>
+     <metadata:type>
+      slideshow
+     </metadata:type>
+     <metadata:id>
+      103522193
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      How to get a free Ivy education...and boost your career
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/05/how-to-get-a-free-ivy-educationand-boost-your-career.html
+     <pubdate>
+      Wed, 06 Apr 2016 11:00 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103495590
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103495590
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Trump calls Ford Mexico plant 'absolute disgrace'
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/05/ford-adding-plants-jobs-in-mexico.html
+     <pubdate>
+      Wed, 06 Apr 2016 10:48 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103521992
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103521992
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Making the new investment rule work for you
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/05/how-the-fiduciary-rule-works.html
+     <pubdate>
+      Wed, 06 Apr 2016 10:05 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103522724
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103522724
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      New rule can save investors billions
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/05/new-investment-rule-could-save-investors-billions.html
+     <pubdate>
+      Wed, 06 Apr 2016 10:05 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103471074
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103471074
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Kensho: Fed's dovish words to boost these stocks
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/05/kensho-feds-dovish-words-to-boost-these-stocks.html
+     <pubdate>
+      Wed, 06 Apr 2016 10:00 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103523020
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103523020
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      The celebs and lawmakers hit by ‘Panama papers’
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/06/the-celebs-and-lawmakers-hit-by-panama-papers.html
+     <pubdate>
+      Wed, 06 Apr 2016 08:50 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103521421
+     </guid>
+     <metadata:type>
+      slideshow
+     </metadata:type>
+     <metadata:id>
+      103521421
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Justice Dept may stop Halliburton acquistion
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/06/us-justice-department-will-sue-to-stop-halliburton-baker-hughes-merger--source.html
+     <pubdate>
+      Wed, 06 Apr 2016 08:12 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103524578
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103524578
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      San Francisco approves fully paid parental leave
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/06/san-francisco-is-first-us-city-to-set-fully-paid-parental-leave.html
+     <pubdate>
+      Wed, 06 Apr 2016 07:45 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103524368
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103524368
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      New app designed to ‘bust’ Tinder users
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/06/new-app-designed-to-bust-tinder-users.html
+     <pubdate>
+      Wed, 06 Apr 2016 07:40 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103524370
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103524370
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      WhatsApp encrypts messages for all its users
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/06/whatsapp-encrypts-messages-for-all-its-users.html
+     <pubdate>
+      Wed, 06 Apr 2016 06:22 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103524150
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103524150
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Ackman to face grilling after record quarterly loss
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/06/ackman-to-face-investor-grilling-after-record-quarterly-loss.html
+     <pubdate>
+      Wed, 06 Apr 2016 05:25 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103524078
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103524078
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      US banks are at their healthiest in decades: Richard Bove
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/06/amid-stress-test-us-banks-are-stronger-than-theyve-been-in-decades-richard-bove.html
+     <pubdate>
+      Wed, 06 Apr 2016 04:24 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103523963
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103523963
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Fitch: This is why a Chinese hard landing is unlikely
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/05/china-hard-landing-unlikely-but-debt-levels-a-concern-fitch.html
+     <pubdate>
+      Wed, 06 Apr 2016 03:37 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103523692
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103523692
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Cruz and Sanders win Wisconsin: NBC projection
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/05/wisconsin-primary-results-latest-news.html
+     <pubdate>
+      Wed, 06 Apr 2016 02:48 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103523350
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103523350
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      This fund has outperformed for the past five years
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://video.cnbc.com/gallery/?video=3000507252
+     <pubdate>
+      Wed, 06 Apr 2016 01:07 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103523733
+     </guid>
+     <metadata:type>
+      cnbcvideo
+     </metadata:type>
+     <metadata:id>
+      3000507252
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Cramer Remix: How to win if oil goes lower
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/05/cramer-remix-how-to-win-if-oil-goes-lower.html
+     <pubdate>
+      Tue, 05 Apr 2016 23:37 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103523552
+     </guid>
+     <metadata:type>
+      blogpost
+     </metadata:type>
+     <metadata:id>
+      103523552
+     </metadata:id>
+    </item>
+   </channel>
+  </rss>
+ </body>
+</html>

@@ -1,0 +1,16 @@
+Note on how to organize this whole project:
+
+1. "training"
+    - "raw_data": this is where we store the data crawled from the web.
+    - "crawling": we have to retrieve a lot of data from the web for testing purposes. This is the part where we crawl the data from the web so we can use it later.
+    - "pandas / data processing": we transform the data from raw html "beautiful soup" files into pandas dataframes for ease of analysis.
+    - "sentiment_analysis_trials": this is where we will try out different sentiment analysis techniques on the crawled data. We will have to try out several to see which one works the best.
+    
+2. "inference":
+    ~ This is the use case the tool is intended for. Crawl MSNBC every five minutes, and for our desired stocks, make a quick buy / sell decision.
+    - "crawling": every five minutes, crawl msnbc
+    - "pandas": convert raw files into data frames? {I guess we might be able to skip this...}
+    - "sentiment analysis": make an inference decision with sentiment analysis using the technique that worked best in training.
+    
+3. "notebooks"
+    - store some of the exploratory stuff, plus trial and error

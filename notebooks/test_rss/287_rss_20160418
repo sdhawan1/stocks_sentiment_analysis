@@ -1,0 +1,660 @@
+<?xml version="1.0"?>
+<html>
+ <body>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:metadata="http://www.w3.org/Metadata">
+   <channel>
+    <atom:link href="http://www.cnbc.com/id/100003114/device/rss/rss.html" rel="self" type="application/rss+xml">
+    </atom:link>
+    <title>
+     Top News &amp;amp; Analysis
+    </title>
+    <description>
+    </description>
+    <link/>
+    http://www.cnbc.com/us-top-news-and-analysis/
+    <pubdate>
+     Mon, 18 Apr 2016 20:45 GMT
+    </pubdate>
+    <lastbuilddate>
+     Mon, 18 Apr 2016 20:45 GMT
+    </lastbuilddate>
+    <language>
+     en-us
+    </language>
+    <ttl>
+     60
+    </ttl>
+    <item>
+     <title>
+      Netflix plunges after weak guidance
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/netflix-reports-first-quarter-2016-results.html
+     <pubdate>
+      Mon, 18 Apr 2016 20:53 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103556666
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103556666
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Siri spills the beans on Apple's next conference
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/siri-spills-the-beans-on-apples-worldwide-developers-conference-wwdc16.html
+     <pubdate>
+      Mon, 18 Apr 2016 20:41 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103557168
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103557168
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Carnival might delay Cuba cruise over inequality
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/carnival-may-delay-cuba-cruise-over-discrimination-concerns.html
+     <pubdate>
+      Mon, 18 Apr 2016 20:29 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103557197
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103557197
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      IBM beats as cloud revenue rises
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/ibm-reports-first-quarter-2016-earnings.html
+     <pubdate>
+      Mon, 18 Apr 2016 20:27 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103555818
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103555818
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Target increases minimum wage to $10/hour: Sources
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/target-increases-minimum-wage-to-10-an-hour-sources.html
+     <pubdate>
+      Mon, 18 Apr 2016 20:25 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103557496
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103557496
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      'Star Wars,' the force behind Hasbro sales
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/star-wars-the-force-behind-hasbro-sales.html
+     <pubdate>
+      Mon, 18 Apr 2016 20:16 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103556311
+     </guid>
+     <metadata:type>
+      blogpost
+     </metadata:type>
+     <metadata:id>
+      103556311
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Energy stocks whipsaw after Doha meeting failure
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/energy-stocks-slide-after-doha-meeting-failure.html
+     <pubdate>
+      Mon, 18 Apr 2016 20:14 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103555749
+     </guid>
+     <metadata:type>
+      blogpost
+     </metadata:type>
+     <metadata:id>
+      103555749
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Disney advances after upgrade, 'Jungle Book' open
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/disney-shares-advance-after-upgrade-jungle-book-open.html
+     <pubdate>
+      Mon, 18 Apr 2016 20:08 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103556342
+     </guid>
+     <metadata:type>
+      blogpost
+     </metadata:type>
+     <metadata:id>
+      103556342
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Battle between Verizon and strikers endures
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/battle-between-verizon-and-strikers-enters-endurance-phase.html
+     <pubdate>
+      Mon, 18 Apr 2016 20:06 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103557254
+     </guid>
+     <metadata:type>
+      partnerstory
+     </metadata:type>
+     <metadata:id>
+      103557254
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      'Hamilton' creator wins Pulitzer for drama
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/lin-manuel-mirandas-hamilton-wins-pulitzer-for-drama.html
+     <pubdate>
+      Mon, 18 Apr 2016 19:52 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103557278
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103557278
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Dow hits 18K, but chart analysts aren't buying
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/dow-touches-18k-but-chart-analysts-arent-buying.html
+     <pubdate>
+      Mon, 18 Apr 2016 19:25 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103556964
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103556964
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Dow 18K—winners and losers
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/dow-18k-winners-and-losers.html
+     <pubdate>
+      Mon, 18 Apr 2016 19:07 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103557107
+     </guid>
+     <metadata:type>
+      blogpost
+     </metadata:type>
+     <metadata:id>
+      103557107
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      So, about that guy who ruined his biz with bad code
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/hoax-man-didnt-delete-biz-with-line-of-bad-code.html
+     <pubdate>
+      Mon, 18 Apr 2016 18:58 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103556109
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103556109
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      US oil cuts losses, settles 1.4 pct lower
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/17/oil-price-falls-after-doha-summit-of-opec-other-producers-ends-without-output-freeze-deal.html
+     <pubdate>
+      Mon, 18 Apr 2016 18:30 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103554409
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103554409
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      The slowdown in buybacks: What you need to know
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/what-you-need-to-know-about-the-slowdown-in-buybacks.html
+     <pubdate>
+      Mon, 18 Apr 2016 18:21 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103556632
+     </guid>
+     <metadata:type>
+      blogpost
+     </metadata:type>
+     <metadata:id>
+      103556632
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Venezuela: US, Saudi Arabia ruined Doha deal
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/venezuela-says-opec-trust-badly-broken-after-doha-failure.html
+     <pubdate>
+      Mon, 18 Apr 2016 18:17 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103557005
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103557005
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      US shale may drive oil prices after Doha disaster
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/us-shale-could-drive-prices-after-doha-disaster.html
+     <pubdate>
+      Mon, 18 Apr 2016 17:55 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103556527
+     </guid>
+     <metadata:type>
+      blogpost
+     </metadata:type>
+     <metadata:id>
+      103556527
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Oil is falling, but US keeps pumping—here's why
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/low-oil-prices-dont-cut-into-us-production-by-much.html
+     <pubdate>
+      Mon, 18 Apr 2016 17:35 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103556093
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103556093
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      BlackRock downgrades outlook on US assets
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/blackrock-downgrades-outlook-on-us-assets.html
+     <pubdate>
+      Mon, 18 Apr 2016 17:31 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103556947
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103556947
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Ecuador quake death toll jumps to 350, some trapped
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/17/ecuador-struck-by-largest-earthquake-in-decades-dozens-killed.html
+     <pubdate>
+      Mon, 18 Apr 2016 16:54 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103553808
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103553808
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Silicon Valley’s 'Coach' Bill Campbell has died
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/silicon-valleys-legendary-coach-bill-campbell-has-died.html
+     <pubdate>
+      Mon, 18 Apr 2016 16:37 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103556703
+     </guid>
+     <metadata:type>
+      partnerstory
+     </metadata:type>
+     <metadata:id>
+      103556703
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Saudis not done inflicting pain on drillers: Kilduff
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/saudis-want-to-inflict-more-pain-on-oil-producers-kilduff.html
+     <pubdate>
+      Mon, 18 Apr 2016 16:37 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103555296
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103555296
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Bernie Sanders wins even if he loses
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/bernie-sanders-wins-even-if-he-loses-commentary.html
+     <pubdate>
+      Mon, 18 Apr 2016 16:24 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103556674
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103556674
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Can a start-up break out of IBM's sticky core?
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/can-a-start-up-break-out-of-ibms-slow-sticky-core.html
+     <pubdate>
+      Mon, 18 Apr 2016 15:41 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103549062
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103549062
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Pro Talks: How Navellier wins the earnings game
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/pro-talks-how-navellier-wins-the-earnings-game.html
+     <pubdate>
+      Mon, 18 Apr 2016 15:31 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103556101
+     </guid>
+     <metadata:type>
+      blogpost
+     </metadata:type>
+     <metadata:id>
+      103556101
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Tom Lee: S&amp;P could be up double digits this year
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/tom-lee-sp-could-be-up-double-digits-this-year.html
+     <pubdate>
+      Mon, 18 Apr 2016 15:25 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103556189
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103556189
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      IRS: Come clean before we read Panama Papers
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/irs-urges-americans-come-clean-now-before-we-read-panama-papers.html
+     <pubdate>
+      Mon, 18 Apr 2016 15:22 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103556480
+     </guid>
+     <metadata:type>
+      partnerstory
+     </metadata:type>
+     <metadata:id>
+      103556480
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Taxes not done? Relax, you have options
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/last-minute-tax-filing-moves-for-procrastinators.html
+     <pubdate>
+      Mon, 18 Apr 2016 14:55 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103556325
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103556325
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      8 hot global start-ups to watch in 2016
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/some-of-the-hottest-global-start-ups-on-the-planet.html
+     <pubdate>
+      Mon, 18 Apr 2016 14:55 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103533170
+     </guid>
+     <metadata:type>
+      slideshow
+     </metadata:type>
+     <metadata:id>
+      103533170
+     </metadata:id>
+    </item>
+    <item>
+     <title>
+      Verizon still 'most sensible' Yahoo buyer: Analyst
+     </title>
+     <description>
+     </description>
+     <link/>
+     http://www.cnbc.com/2016/04/18/verizon-still-most-sensible-yahoo-buyer-analyst.html
+     <pubdate>
+      Mon, 18 Apr 2016 14:45 GMT
+     </pubdate>
+     <guid ispermalink="false">
+      guid_103555310
+     </guid>
+     <metadata:type>
+      cnbcnewsstory
+     </metadata:type>
+     <metadata:id>
+      103555310
+     </metadata:id>
+    </item>
+   </channel>
+  </rss>
+ </body>
+</html>
