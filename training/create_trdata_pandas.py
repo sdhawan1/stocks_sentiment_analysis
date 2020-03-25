@@ -128,8 +128,6 @@ def extract_combine_historical_stocks(stocks_data_dir, res2):
     print(trdata.head())
     return trdata
 
-historical_stock_prices = extract_historical_stocks(stocks_data_dir)
-
 
 
 '''
